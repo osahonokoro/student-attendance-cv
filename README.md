@@ -18,4 +18,4 @@ This project leverages **computer vision** and **IoT** to automate student atten
 ## 🛠️ Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/student-attendance-cv.git
+   git clone https://github.com/osahonokoro /student-attendance-cv.git
